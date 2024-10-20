@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tn/olCT8RnFMDv83S5+bewxqRukO/xDxKBEKKDuIt5U=",
+  "Source": "pushnotification_webapi",
+  "BasePath": "_content/pushnotification_webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

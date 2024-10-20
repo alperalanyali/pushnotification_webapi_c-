@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVgtCcYEIHSO6OAJhcPrafj4M1tyPgS2yxA+D0O/LA43jtOShgympbSZmuEEL8nPV3ySxp1iz80UbJPnzmJNVQ==",
+  "success": true,
+  "projectFilePath": "/Users/alperalanyali/Desktop/pushnotification_webapi/pushnotification_webapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/alperalanyali/.nuget/packages/corepush/4.1.0/corepush.4.1.0.nupkg.sha512",
+    "/Users/alperalanyali/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/alperalanyali/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/alperalanyali/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/alperalanyali/.nuget/packages/portable.bouncycastle/1.9.0/portable.bouncycastle.1.9.0.nupkg.sha512",
+    "/Users/alperalanyali/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/alperalanyali/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/alperalanyali/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/alperalanyali/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
